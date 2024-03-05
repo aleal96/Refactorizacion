@@ -21,7 +21,7 @@ public class CostPersonal {
         return costeFinal;
     }   
 }
-
+```
 *** En la refactorización:***
 
 Cambié el nombre del método de CostDelPersonal a calcularCostePersonal para seguir las convenciones de nomenclatura de Java y hacerlo más descriptivo.
